@@ -15,4 +15,6 @@
 
 The following are tests which were made to proove the validity of our code:
 
-
+  Manual run-time test to check continuous connectivity.
+  Manual run-time test to check commands sent by client being operated at server.
+  Manual run-time test to check connectivity between server and 2 different clients using 2 different ports, with orders being operated     at server simultaniously.
