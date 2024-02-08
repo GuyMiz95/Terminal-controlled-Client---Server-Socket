@@ -9,8 +9,7 @@
 
   It was decided to implement all functionality under a single file, that's to be able to unify all shared code      between both processes (client and server entries).
   The file contains 2 main processes, the server - side process which receives orders continuously and operates them.
-  and the client - side process, which upon connected gives the user the ability to sent orders to the server.
-  both devi
+  and the client - side process, which upon connection gives the user the ability to send orders to the server.
 
 ### =           Tests           =
 
